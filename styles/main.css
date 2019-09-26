@@ -3693,6 +3693,7 @@ body {
 img {
   max-width: 100%;
   border-radius: 1px;
+  padding: 20px;
 }
 
 .img-raised {
