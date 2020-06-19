@@ -2,7 +2,7 @@
 title: "Books"
 date: "2020-06-19"
 author: "Alibek Kaliyev"
-path: "/books"
+path: "/s_books"
 ---
 
 Hey! Here you can see the list of the books I've read so far and going to read in the future. I also wrote a review for some of them in Russian, so feel free to click on the titles of the books to read my reviews.
