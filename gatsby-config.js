@@ -6,6 +6,7 @@ const cssnano = require('cssnano')
 const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
+  pathPrefix: "/",
   siteMetadata: {
     title: `abekek notes`,
     description: `A simple starter for Gatsby. That's it.`,
@@ -123,7 +124,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `abekek.github.io`,
-        short_name: `hello-friend`,
+        short_name: `abekek.github.io`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
