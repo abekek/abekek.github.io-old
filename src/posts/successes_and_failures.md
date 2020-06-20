@@ -5,7 +5,7 @@ path: "/successes_and_failures"
 author: "Alibek Kaliyev"
 #coverImage: "../images/leadershipkz_image.jpg"
 excerpt: "Once, my father told me: Life is like a cycling race. The cycling race consists of several stages and the winner is determined by the sum of points for all stages. The victory in one stage does not matter if you lost in the rest, but if at some stages you arrived second, and at some fifth, then in the end you will bypass those single winners."
-tags: ["college", "lehigh"]
+tags: ["thoughts", "podcast"]
 ---
 
 

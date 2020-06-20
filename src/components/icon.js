@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 import style from '../styles/icon.module.css'
 
 const Icon = props => {
-  const { d, size = '1em', label, style: styles } = props
+  const { d, size = '1em', label, style: styles, view} = props
 
   return (
     <span className={style.root} style={styles} role="figure">
@@ -12,7 +12,7 @@ const Icon = props => {
         version="1.1"
         width={size}
         height={size}
-        viewBox="0 0 48 48"
+        viewBox={view}
         xmlns="http://www.w3.org/2000/svg"
       >
         <path d={d} className={style.icon} />
@@ -27,6 +27,7 @@ Icon.propTypes = {
   size: PropTypes.number,
   label: PropTypes.string,
   style: PropTypes.object,
+  view: PropTypes.string,
 }
 
 export default Icon

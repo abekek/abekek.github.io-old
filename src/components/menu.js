@@ -45,6 +45,7 @@ const menuIcon = `M4 34H40V30H4V34ZM4 24H40V20H4V24ZM4 10V14H40V10H4Z`
 const toggleIcon = `M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
 3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
 13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z`
+const telegramIcon = 'm9.417 15.181-.397 5.584c.568 0 .814-.244 1.109-.537l2.663-2.545 5.518 4.041c1.012.564 1.725.267 1.998-.931l3.622-16.972.001-.001c.321-1.496-.541-2.081-1.527-1.714l-21.29 8.151c-1.453.564-1.431 1.374-.247 1.741l5.443 1.693 12.643-7.911c.595-.394 1.136-.176.691.218z'
 
 const Menu = ({
   mainMenu,
@@ -82,7 +83,7 @@ const Menu = ({
             type="button"
             aria-label="Menu"
           >
-            <Icon style={{ cursor: 'pointer' }} size={24} d={menuIcon} />
+            <Icon style={{ cursor: 'pointer' }} size={24} d={menuIcon} view="0 0 48 48"/>
           </button>
         </>
       </div>
@@ -114,12 +115,20 @@ const Menu = ({
         </ul>
       </div>
       <button
+        className={style.telegramButton}
+        onClick={() => parent.open('https://t.me/abekek_notes')}
+        type="button"
+        aria-label="Telegram"
+      >
+        <Icon style={{ cursor: 'pointer' }} size={24} d={telegramIcon} view="0 0 24 28"/>
+      </button>
+      <button
         className={style.themeToggle}
         onClick={onChangeTheme}
         type="button"
         aria-label="Theme toggle"
       >
-        <Icon style={{ cursor: 'pointer' }} size={24} d={toggleIcon} />
+        <Icon style={{ cursor: 'pointer' }} size={24} d={toggleIcon} view="0 0 48 48"/>
       </button>
     </>
   )

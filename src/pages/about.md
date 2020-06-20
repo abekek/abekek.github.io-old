@@ -16,8 +16,8 @@ In addition, my one of my favorite hobbies is karate, where I achieved the follo
 * 🥋 Okinawan Goju Ryu Karate black belt owner (1 dan)
 * Bunbukan Okinawa Kobudo 4 kyu.
 
-This website is an extended version of my [Telegram blog](https://t.me/abekek_notes) where I post mainly in Russian; however, here I will write on English. I hope you enjoy!
+This website is an extended version of my [Telegram blog](https://t.me/abekek_notes) where I post mainly in Russian; however, here I will write in English. I hope you enjoy!
 
 Also, take a look at my [resume](/resume), [GitHub](https://github.com/abekek/) and [LinkedIn](https://www.linkedin.com/in/abekek).
 
-If you want to see my photos, here is my [Instagram](https://www.instagram/abekek).
+If you want to see my photos, here is my [Instagram](https://www.instagram.com/abekek).
