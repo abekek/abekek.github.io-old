@@ -8,7 +8,7 @@ path: "/s_books"
 Hey! Here you can see the list of the books I've read so far and going to read in the future. I also wrote a review for some of them in Russian, so feel free to click on the titles of the books to read my reviews.
 
 ### The book(-s) I'm currently reading
-Make Your Home Among Strangers: A Novel - Jennine Crucet
+Talking to Strangers - Malcolm Gladwell
 
 ### Books I've read in 2020
 1. [The Outsider - Stephen King](https://t.me/abekek_notes/512)
@@ -25,6 +25,8 @@ Make Your Home Among Strangers: A Novel - Jennine Crucet
 12. [21 Lessons for the 21st Century - Yuval Noah Harrari](https://t.me/abekek_notes/613)
 13. [The End of Eternity - Isaac Asimov](https://t.me/abekek_notes/616)
 14. [If It Bleeds - Stephen King](https://t.me/abekek_notes/628)
+15. [Make Your Home Among Strangers: A Novel - Jennine Crucet](https://t.me/abekek_notes/630)
+16. [Man's Search For Meaning - Viktor E. Frankl](https://t.me/abekek_notes/635)
 
 ### Books I read in 2019
 1. Homo Deus - Yuval Noah Harrari
