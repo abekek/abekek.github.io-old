@@ -8,7 +8,7 @@ path: "/s_books"
 Hey! Here you can see the list of the books I've read so far and going to read in the future. I also wrote a review for some of them in Russian, so feel free to click on the titles of the books to read my reviews.
 
 ### The book(-s) I'm currently reading
-Talking to Strangers - Malcolm Gladwell
+Stillness Is The Key - Ryan Holiday
 
 ### Books I've read in 2020
 1. [The Outsider - Stephen King](https://t.me/abekek_notes/512)
@@ -27,6 +27,8 @@ Talking to Strangers - Malcolm Gladwell
 14. [If It Bleeds - Stephen King](https://t.me/abekek_notes/628)
 15. [Make Your Home Among Strangers: A Novel - Jennine Crucet](https://t.me/abekek_notes/630)
 16. [Man's Search For Meaning - Viktor E. Frankl](https://t.me/abekek_notes/635)
+17. [Talking To Strangers - Malcolm Gladwell](https://t.me/abekek_notes/646)
+18. [Outliers: The Story of Success - Malcolm Gladwell](https://t.me/abekek_notes/656)
 
 ### Books I read in 2019
 1. Homo Deus - Yuval Noah Harrari

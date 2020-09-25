@@ -9,9 +9,9 @@ module.exports = {
   pathPrefix: "/",
   siteMetadata: {
     title: `abekek notes`,
-    description: `A simple starter for Gatsby. That's it.`,
+    description: `My Personal Website.`,
     copyrights: '',
-    author: `@panr`,
+    author: `@abekek`,
     logo: {
       src: '',
       alt: '',

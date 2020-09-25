@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2020-06-17"
+date: "2020-09-25"
 author: "Alibek Kaliyev"
 path: "/resume"
 ---
@@ -34,6 +34,15 @@ ______________
 ______________
 
 ## Work Experience
+
+### Undergraduate Researcher/Data For Impact Fellow 
+
+*Bethlehem, PA, USA*  |  *June, 2020 - Present* 
+
+Real-time Machine Learning in Experimental Materials Science.
+
+* Built a pre-trained Deep Neural Network using Tensorflow and Keras with ResNet Blocks and Attention layers for rapid analysis of piezoelectric hysteresis loops for feature extraction of materials.
+* Used PCA and built a custom loss function in Keras to optimize the algorithm.
 
 ### SMM, Designer Intern at Cisco Systems Inc. 
 
@@ -73,7 +82,7 @@ ______________
 
 *December 30, 2017 - Present*
 
-* 2900+ subscribers, 1 000 000+ views, 600+ posts.
+* 3100+ subscribers, 1 000 000+ views, 600+ posts.
 * Started to run channel in 2017. The channel's main objective is to provide Kazakhstani high school students with knowledge about SAT and US universities application process.
 * Besides Kazakhstan, now the channel is followed by students from CIS countries: Azerbaijan, Belarus, Kyrgyztan, Russia, Tajikistan, Ukraine and Uzbekistan.
 * Interviewed Harvard University, University of Pennsylvania students.
@@ -113,7 +122,7 @@ ______________
 ______________
 
 #### Skills
-* Data Science: NumPy, Pandas, Matplotlib, scikit-learn, SQL
+* Data Science: NumPy, Tensorflow, Keras, Pandas, Matplotlib, scikit-learn, SQL
 * Python: Telegram API, Firebase REST API
 * Java: Android
 

@@ -1,17 +1,17 @@
 ---
 title: "About"
-date: "2020-06-19"
+date: "2020-09-25"
 author: "Alibek Kaliyev"
 path: "/about"
 ---
 
 ## Hi there
 
-I am Alibek, a future college student at Lehigh University and currently working as an intern at Cisco in Corporate Social Responsibility Team and helping to promote and organize Cisco Networking Academy’s products and events. 
+I am Alibek, a student at Lehigh University, an Undergraduate Researcher and currently working as an intern at Cisco in Corporate Social Responsibility Team and helping to promote and organize Cisco Networking Academy’s products and events.
 
 I have a good experience both in Software Engineering and Data Science; therefore, I have a passion for becoming an AI engineer by combining these fields. I love reading and sharing my thoughts and technical skills on my blog.
 
-In addition, my one of my favorite hobbies is karate, where I achieved the following:
+In addition, one of my favorite hobbies is karate, where I achieved the following:
 * IOGKF Kazakhstan champion (🥇19 gold, 🥈8 silver, 🥉5 bronze medals)
 * 🥋 Okinawan Goju Ryu Karate black belt owner (1 dan)
 * Bunbukan Okinawa Kobudo 4 kyu.
