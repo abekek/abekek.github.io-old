@@ -8,9 +8,11 @@ path: "/s_books"
 Hey! Here you can see the list of the books I've read so far and going to read in the future. I also wrote a review for some of them in Russian, so feel free to click on the titles of the books to read my reviews.
 
 ### The book(-s) I'm currently reading
-Stillness Is The Key - Ryan Holiday
+
+Notes From The Underground - Fyodor Dostoevsky
 
 ### Books I've read in 2020
+
 1. [The Outsider - Stephen King](https://t.me/abekek_notes/512)
 2. [Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker](https://t.me/abekek_notes/526)
 3. [The Metamorphosis - Franz Kafka](https://t.me/abekek_notes/528)
@@ -29,8 +31,11 @@ Stillness Is The Key - Ryan Holiday
 16. [Man's Search For Meaning - Viktor E. Frankl](https://t.me/abekek_notes/635)
 17. [Talking To Strangers - Malcolm Gladwell](https://t.me/abekek_notes/646)
 18. [Outliers: The Story of Success - Malcolm Gladwell](https://t.me/abekek_notes/656)
+19. [Stillness Is The Key - Ryan Holiday](https://t.me/abekek_notes/667)
+20. [The Smallest Lights In The Universe - Sara Seager](https://t.me/abekek_notes/681)
 
 ### Books I read in 2019
+
 1. Homo Deus - Yuval Noah Harrari
 2. [Educated - Tara Westover](https://t.me/abekek_notes/132)
 3. [A Brief History of Time - Steven Hawking](https://t.me/abekek_notes/91)
@@ -47,8 +52,9 @@ Stillness Is The Key - Ryan Holiday
 14. [The Institute - Stephen King](https://t.me/abekek_notes/483)
 
 ### Books I read in 2018
+
 1. [Zero to One - Blake Masters and Peter Thiel](https://t.me/abekek_notes/45)
-2. The Subtle Art of Not Giving a F*ck - Mark Manson
+2. The Subtle Art of Not Giving a F\*ck - Mark Manson
 3. Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are - Seth Stephens-Davidowitz
 4. The Great Gatsby - F.Scott Fitzgerald
 5. The Shawshank Redemption - Stephen King
