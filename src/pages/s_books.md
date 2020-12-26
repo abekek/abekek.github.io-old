@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2020-06-19"
+date: "2020-12-26"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -9,7 +9,8 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-Notes From The Underground - Fyodor Dostoevsky
+- The Godfather - Mario Puzo
+- Meditations - Marcus Aurelius
 
 ### Books I've read in 2020
 
@@ -33,6 +34,7 @@ Notes From The Underground - Fyodor Dostoevsky
 18. [Outliers: The Story of Success - Malcolm Gladwell](https://t.me/abekek_notes/656)
 19. [Stillness Is The Key - Ryan Holiday](https://t.me/abekek_notes/667)
 20. [The Smallest Lights In The Universe - Sara Seager](https://t.me/abekek_notes/681)
+21. [Fahrenheit 451 - Ray Bradbury](https://t.me/abekek_notes/684)
 
 ### Books I read in 2019
 
