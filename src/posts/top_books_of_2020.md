@@ -18,7 +18,7 @@ Books are listed in no particular order.
 
 ## 1. Ego Is The Enemy - Ryan Holiday
 
-This is the second Ryan Holiday book I've read. I would say that I got a lot of impressions from it, and learned about myself and people even more.
+This is the second Ryan Holiday's book I've read. I would say that I got a lot of impressions from it, and learned about myself and people even more.
 
 The author of this book talks about what the ego is in his understanding, how it constantly interferes with us in life and how to deal with it. He constantly cites examples based on historical facts - situations faced by historical figures.
 
@@ -32,7 +32,7 @@ You can notice such a harmful influence of the ego in three stages that are cons
 
 First, the ego wakes up when you are inspired and motivated to do something cool. Your ego begins to actively act, to seek other people's approval from the outside, asking the question: "What do other people think of me?" Thus, your ego makes you TALK about what you want to do, rather than DOing what you need to do.
 
-We think that being active on social networks, subscribers, scrolling the feed is a real job, because noise is created, people respond, and comment on our photos; and silence and calm == inaction and failure. This is all our ego. It creates the illusion of the importance of a person who creates an image in his head that he will never reach by such paths.
+We think that being active on social networks, subscribers, scrolling the feed is a real job, because noise is created, people respond, and comment on our photos; and silence and calm == inaction and failure. This is all our ego. It creates the illusion of the importance of a person who creates an image in his head that one will never reach by such paths.
 
 Here it is important to answer the question correctly: to be or to do?
 
@@ -53,7 +53,7 @@ The rule + - = (plus, minus, equal) should be applied here.
 American UFC fighter Frank Shamrock said this about his students:
 _They need to have someone better they can learn from, someone lesser they can teach, and someone equal they can challenge themselves against._
 
-Thus, it is better to find someone equal to yourself to aspire (motivate each other to take action), someone better than yourself to success (not drowning in your glory) and someone worse than yourself to failure (helping and rising together).
+Thus, it is better to find someone equal to yourself to aspire (motivate each other to take action), someone better than yourself to succeed (not drowning in your glory) and someone worse than yourself to fail (helping and rising together).
 
 This book helped me realize my mistakes. I realized that the ego often prevails in me, and honestly now I see can easliy identify people who have the same problem.
 
