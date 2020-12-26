@@ -12,7 +12,7 @@ This year has been pretty difficult for all of us. Sitting at home, away from ou
 
 Being stuck in quarantine, when I couldn't communicate with my surroundings the same way as I did before, the main source of these new ideas were books; they have always been, but this year they entirely changed my point of view about many aspects of my life. They changed the way I think, they brought me to places which my mind has never discovered.
 
-Sure, not all of them were good; that is why, I decided to make a Top-5 of books that I liked the most, and that influenced my life the most this year. If tou want to check out the full list of books I read this year, check [this link](/s_books).
+Sure, not all of them were good; that is why, I decided to make a Top-5 of books that I liked the most, and that influenced my life the most this year. If you want to check out the full list of books I read this year, check [this link](/s_books).
 
 Books are listed in no particular order.
 
