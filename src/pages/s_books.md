@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2020-12-26"
+date: "2020-12-27"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -10,7 +10,6 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 ### The book(-s) I'm currently reading
 
 - The Godfather - Mario Puzo
-- Meditations - Marcus Aurelius
 
 ### Books I've read in 2020
 
@@ -35,6 +34,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 19. [Stillness Is The Key - Ryan Holiday](https://t.me/abekek_notes/667)
 20. [The Smallest Lights In The Universe - Sara Seager](https://t.me/abekek_notes/681)
 21. [Fahrenheit 451 - Ray Bradbury](https://t.me/abekek_notes/684)
+22. [Meditations - Marcus Aurelius](https://t.me/abekek_notes/686)
 
 ### Books I read in 2019
 
