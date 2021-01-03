@@ -9,9 +9,11 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- The Godfather - Mario Puzo
+- White Nights - Fyodor Dostoevsky
 
 ### Books I've read in 2021
+
+1. [The Godfather - Mario Puzo](https://t.me/abekek_notes/690)
 
 ### Books I read in 2020
 
