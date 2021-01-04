@@ -9,11 +9,12 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- White Nights - Fyodor Dostoevsky
+- The Gold-Bug and Other Short Stories - Edgar Allan Poe
 
 ### Books I've read in 2021
 
 1. [The Godfather - Mario Puzo](https://t.me/abekek_notes/690)
+2. [White Nights - Fyodor Dostoevsky](https://t.me/abekek_notes/691)
 
 ### Books I read in 2020
 
