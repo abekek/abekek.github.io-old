@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2020-12-27"
+date: "2021-01-06"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -10,6 +10,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 ### The book(-s) I'm currently reading
 
 - The Gold-Bug and Other Short Stories - Edgar Allan Poe
+- Ignorance: How It Drives Science - Stuart Firestein
 
 ### Books I've read in 2021
 

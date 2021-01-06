@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2020-09-25"
+date: "2021-01-06"
 author: "Alibek Kaliyev"
 path: "/resume"
 ---
@@ -22,13 +22,15 @@ E-mail: abekek01@gmail.com | [GitHub](https://github.com/abekek/) | [LinkedIn](h
 _Bethlehem, PA, USA_ | _2020 - Present (Expected: 2024)_
 
 - Major: Computer Science and Business
-- Currently: Data for Impact Fellow, Undergraduate Researcher
+- GPA: 4.0/4.0
+- Currently: Data for Impact Fellow, Undergraduate Researcher, Project Manager (CSBA)
+- Honors: Trustees Scholarship (Offered to select students in the top 1% of applicant pool)
 
 ### Nazarbayev Intellectual School of Physics and Mathematics
 
 _Almaty, Kazakhstan_ | _September 2014 - April 2020_
 
-- **GPA**: 5.0/5.0
+- GPA: 5.0/5.0
 - Awards:
   - **Altyn Belgi** - the award is given to Kazakhstani students who maintain excellent (5.0/5.0) GPA throughout 5th to 12th grades.
   - **School Pride Award** - the award is given to Top-100 students of NIS
@@ -53,7 +55,7 @@ Real-time Machine Learning in Experimental Materials Science.
 
 ### SMM, Designer Intern at Cisco Systems Inc.
 
-_Almaty, Kazakhstan_ | _January 16, 2020 - Present_
+_Almaty, Kazakhstan_ | _January 16, 2020 - December 31_
 
 - Designed posters, banners, brochures, badge cards for the International "Cisco Netacad Hackathon" and helped with its organization. The hackathon had 100+ participants and Cisco experts.
 - Running Cisco Networking Academy's Instagram page and writing tech related posts. [Instagram profile: @netacadkaz](https://www.instagram.com/netacadkaz/)
@@ -84,12 +86,13 @@ _September 1, 2018 - July 1, 2019_
 - Suggested an idea of developing the Telegram bot.
 - Developed the Telegram bot to help Kazakhstan National Anti-Doping Center to track their athletes using Firebase Realtime Database and Telegram API.
 - Have tested the bot on some Kazakhstani athletes.
+- [GitHub Repository](https://github.com/abekek/kaznadc-telegram-bot)
 
 ### "SAT Preparation" Telegram Channel
 
 _December 30, 2017 - Present_
 
-- 3100+ subscribers, 1 000 000+ views, 600+ posts.
+- 2900+ subscribers, 1 000 000+ views, 600+ posts.
 - Started to run channel in 2017. The channel's main objective is to provide Kazakhstani high school students with knowledge about SAT and US universities application process.
 - Besides Kazakhstan, now the channel is followed by students from CIS countries: Azerbaijan, Belarus, Kyrgyztan, Russia, Tajikistan, Ukraine and Uzbekistan.
 - Interviewed Harvard University, University of Pennsylvania students.
@@ -99,14 +102,14 @@ _December 30, 2017 - Present_
 
 _November 10, 2018 - January 20, 2019_
 
-- Wrote an article called [”How to create a Telegram bot on Python?”](http://teletype.in/@cozy_codespace/Hk70-Ntl4) which has 18,000+ views.
-- Wrote an article called [”C# Application + MySQL database connection”](http://teletype.in/@cozy_codespace/BkKJ4zO07) which has 4,000+ views.
+- Wrote an article called [”How to create a Telegram bot on Python?”](http://teletype.in/@cozy_codespace/Hk70-Ntl4) which has 20,000+ views.
+- Wrote an article called [”C# Application + MySQL database connection”](http://teletype.in/@cozy_codespace/BkKJ4zO07) which has 6,000+ views.
 
 ---
 
-## Honors and Awards
+<!-- ## Honors and Awards
 
-### Karate Multiple National Champion
+#### Karate Multiple National Champion
 
 _2008 - Present_
 
@@ -114,30 +117,46 @@ _2008 - Present_
 - 8 Silver medals
 - 5 Bronze medals
 
-### "Innovations & Intelligence" National Programming Contest - 3rd place
+#### "Innovations & Intelligence" National Programming Contest - 3rd place
 
 _April 28, 2018_
 
-### "Cisco Stars" International Olympiad on Network Technologies - 2nd place
+#### "Cisco Stars" International Olympiad on Network Technologies - 2nd place
 
 _April 20, 2018_
 
-### Karate Black Belt Shodan (1st dan)
+#### Karate Black Belt Shodan (1st dan)
 
 _March 3, 2017_
 
----
+--- -->
 
-#### Skills
+### Skills
 
 - **Programming/Markup Languages**: Python, Java, SQL, HTML, CSS
 - **Technologies**: Tensorflow, Keras, PyTorch, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Firebase, MySQL, Git,
   Android Studio, Telegram API, python-telegram-bot, Heroku
-- **Other**: Microsoft Word, PowerPoint, Excel, Canva, InkScapes
+- **Other**: Microsoft Word, PowerPoint, Excel, Canva, InkScape
 
 ---
 
-#### Languages
+### College Courses
+
+#### Technical
+
+- CSE 007: Introduction to Programming
+- MATH 021: Calculus I
+- ECO 045: Statistical Methods
+
+#### Non-Technical
+
+- ECO 001: Principles of Economics
+- BUS 001: Foundations of Business
+- BUS 003: Business Communication I
+
+---
+
+### Languages
 
 - Kazakh - Native Proficiency
 - Russian - Native Proficiency
