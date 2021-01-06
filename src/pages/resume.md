@@ -55,7 +55,7 @@ Real-time Machine Learning in Experimental Materials Science.
 
 ### SMM, Designer Intern at Cisco Systems Inc.
 
-_Almaty, Kazakhstan_ | _January 16, 2020 - December 31_
+_Almaty, Kazakhstan_ | _January 16, 2020 - December 31, 2020_
 
 - Designed posters, banners, brochures, badge cards for the International "Cisco Netacad Hackathon" and helped with its organization. The hackathon had 100+ participants and Cisco experts.
 - Running Cisco Networking Academy's Instagram page and writing tech related posts. [Instagram profile: @netacadkaz](https://www.instagram.com/netacadkaz/)
