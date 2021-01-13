@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2021-01-06"
+date: "2021-01-12"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -10,12 +10,13 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 ### The book(-s) I'm currently reading
 
 - The Gold-Bug and Other Short Stories - Edgar Allan Poe
-- Ignorance: How It Drives Science - Stuart Firestein
+- Wuthering Heights - Emily Brontë
 
 ### Books I've read in 2021
 
 1. [The Godfather - Mario Puzo](https://t.me/abekek_notes/690)
 2. [White Nights - Fyodor Dostoevsky](https://t.me/abekek_notes/691)
+3. [Ignorance: How It Drives Science - Stuart Firestein](https://t.me/abekek_notes/693)
 
 ### Books I read in 2020
 
