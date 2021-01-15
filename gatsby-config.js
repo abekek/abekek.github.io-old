@@ -45,6 +45,7 @@ module.exports = {
     ],
   },
   plugins: [
+    `gatsby-plugin-netlify-cms`,
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
     {
