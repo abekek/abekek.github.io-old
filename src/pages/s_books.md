@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2021-01-24"
+date: "2021-03-04"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -9,9 +9,8 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- The Gold-Bug and Other Short Stories - Edgar Allan Poe
-- Anna Karenina - Leo Tolstoy
-- How We Die: Reflections on Life's Final Chapter
+- How We Die: Reflections on Life's Final Chapter - Sherwin B. Nuland
+- How the Steel Was Tempered - Nikolai Ostrovski
 
 ### Books I've read in 2021
 
@@ -19,6 +18,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 2. [White Nights - Fyodor Dostoevsky](https://t.me/abekek_notes/691)
 3. [Ignorance: How It Drives Science - Stuart Firestein](https://t.me/abekek_notes/693)
 4. [When Breath Becomes Air - Paul Kalanithi](https://t.me/abekek_notes/698)
+5. [The Gold-Bug and Other Short Stories - Edgar Allan Poe](https://t.me/abekek_notes/703)
 
 ### Books I read in 2020
 
