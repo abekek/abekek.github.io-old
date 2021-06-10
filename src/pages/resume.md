@@ -11,7 +11,7 @@ College Student · Programmer · Undergraduate Researcher
 
 E-mail: abekek01@gmail.com | [GitHub](https://github.com/abekek/) | [LinkedIn](https://www.linkedin.com/in/abekek)
 
-[My Shortened Resume](https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing)
+#### [My Shortened Resume](https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing)
 
 ---
 
@@ -24,7 +24,7 @@ _Bethlehem, PA, USA_ | _2020 - Present (Expected: 2024)_
 - Major: Computer Science and Business
 - GPA: 4.0/4.0
 - Currently: Data for Impact Fellow, Undergraduate Researcher, Project Manager (CSBA)
-- Honors: Trustees Scholarship (Offered to select students in the top 1% of applicant pool)
+- Honors: Trustees Scholarship (Offered to select students in the top 1% of applicant pool), Dean's List (Spring 2021, Fall 2020)
 
 ### Nazarbayev Intellectual School of Physics and Mathematics
 
@@ -145,7 +145,9 @@ _March 3, 2017_
 #### Technical
 
 - CSE 007: Introduction to Programming
+- CSE 017: Programming and Data Structures
 - MATH 021: Calculus I
+- MATH 022: Calculus II
 - ECO 045: Statistical Methods
 
 #### Non-Technical
@@ -153,6 +155,7 @@ _March 3, 2017_
 - ECO 001: Principles of Economics
 - BUS 001: Foundations of Business
 - BUS 003: Business Communication I
+- ECO 146: Intermediate Microeconomic Analysis
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2021-04-25"
+date: "2021-06-10"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -10,7 +10,6 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 ### The book(-s) I'm currently reading
 
 - How We Die: Reflections on Life's Final Chapter - Sherwin B. Nuland
-- A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 
 ### Books I've read in 2021
 
@@ -20,6 +19,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 4. [When Breath Becomes Air - Paul Kalanithi](https://t.me/abekek_notes/698)
 5. [The Gold-Bug and Other Short Stories - Edgar Allan Poe](https://t.me/abekek_notes/703)
 6. [How the Steel Was Tempered - Nikolai Ostrovski](https://t.me/abekek_notes/708)
+7. [A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins](https://t.me/abekek_notes/713)
 
 ### Books I read in 2020
 
