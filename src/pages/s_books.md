@@ -10,6 +10,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 ### The book(-s) I'm currently reading
 
 - How We Die: Reflections on Life's Final Chapter - Sherwin B. Nuland
+- Projections: A Story of Human Emotions
 
 ### Books I've read in 2021
 
@@ -20,6 +21,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 5. [The Gold-Bug and Other Short Stories - Edgar Allan Poe](https://t.me/abekek_notes/703)
 6. [How the Steel Was Tempered - Nikolai Ostrovski](https://t.me/abekek_notes/708)
 7. [A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins](https://t.me/abekek_notes/713)
+8. [The Brain: The Story of You](https://t.me/abekek_notes/716)
 
 ### Books I read in 2020
 
