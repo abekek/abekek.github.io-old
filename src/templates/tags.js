@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import SEO from '../components/seo'
-import Layout from '../components/layout'
+import BlogLayout from '../components/blog_layout'
 import Post from '../components/post'
 import Navigation from '../components/navigation'
 
@@ -19,7 +19,7 @@ const Tags = ({
   return (
     <>
       <SEO />
-      <Layout>
+      <BlogLayout>
         <div className="infoBanner">
           Posts with tag: <span>#{tag}</span>
         </div>
@@ -59,7 +59,7 @@ const Tags = ({
           nextPath={nextPagePath}
           nextLabel="Older posts"
         />
-      </Layout>
+      </BlogLayout>
     </>
   )
 }

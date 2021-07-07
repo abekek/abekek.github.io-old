@@ -19,24 +19,16 @@ module.exports = {
     logoText: 'abekek notes',
     defaultTheme: 'light',
     postsPerPage: 5,
-    showMenuItems: 4,
+    showMenuItems: 2,
     menuMoreText: 'Show more',
     mainMenu: [
-      {
-        title: 'About',
-        path: '/about',
-      },
-      {
-        title: 'Resume',
-        path: '/resume',
-      },
       {
         title: 'Books',
         path: '/s_books',
       },
       {
         title: 'Blog',
-        path: '/',
+        path: '/blog',
       },
       {
         title: 'My Telegram Blog',

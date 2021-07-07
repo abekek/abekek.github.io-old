@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import SEO from '../components/seo'
-import Layout from '../components/layout'
+import BlogLayout from '../components/blog_layout'
 import Post from '../components/post'
 
 const BlogPostTemplate = ({ data, pageContext }) => {
@@ -16,7 +16,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
   const { next, previous } = pageContext
 
   return (
-    <Layout>
+    <BlogLayout>
       <SEO title={title} description={excerpt || autoExcerpt} />
       <Post
         key={id}
@@ -30,7 +30,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
         previousPost={previous}
         nextPost={next}
       />
-    </Layout>
+    </BlogLayout>
   )
 }
 
