@@ -27,7 +27,7 @@ const MainPage = () => {
                    Neuroscience, Cognitive Science and Philosophy. I believe that the link between the brain and AI is the thing that will shape the future of humanity.
                 </p>
                 <p>I also love martial arts, especially <b>karate</b> that I have been doing for 15 years. Martial arts plays important part in my life by
-                  teaching me discipline, courage, persistence and humility. Besides that, I love reading books, play guitar and share my thoughts in my <a href='https://t.me/abekek_notes'>Russian blog</a> on Telegram.
+                  teaching me discipline, courage, persistence and humility. Besides that, I love reading books, playing guitar and sharing my thoughts in my <a href='https://t.me/abekek_notes'>Russian blog</a> on Telegram.
                 </p>
 
                 <div className="social">
