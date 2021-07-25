@@ -5,6 +5,7 @@ import { Container, Row, Col } from 'react-awesome-styled-grid'
 import { FaGithub, FaLinkedin, FaEnvelope, FaTwitter } from "react-icons/fa"
 import '../styles/layout.css'
 import BlogLayout from '../components/blog_layout'
+import Button from "../components/button"
 import AvatarImg from '../images/avatar_website.jpg'
 
 const MainPage = () => {
@@ -19,8 +20,8 @@ const MainPage = () => {
                     alt='user avatar'
                 />
 
-                <h2>Hi! I'm Alibek!</h2>
-                <h3><a href='https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing'>Resume</a></h3>
+                <h2>Hi 👋 I'm Alibek!</h2>
+                <h3><a href='https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing'>RESUME</a></h3>
                 <p><i>Student @ Lehigh • Undergraduate Researcher at <a href='https://m3-learning.com/'>M3 Learning</a> • Martial Artist</i></p>
                 <p>Glad you visited my page! My name is Alibek Kaliyev, and I am an <b>international student from Kazakhstan</b> studying <b>Computer Science and Business at Lehigh University</b>.
                    Along with my passion in Machine/Deep Learning technologies and Software Engineering that I am trying to combine, I am deeply interested in topics of
@@ -43,7 +44,19 @@ const MainPage = () => {
               </div>
             </Col>
         </Row>
+
+        {/* <h2>Projects</h2>
+        <Row>
+          <Col>
+            <h4>Artistic Neural Style Transfer App</h4>
+            <p>Neural Style Transfer App built with React and PyTorch, maintained by AWS and deployed on Netlify</p>
+          </Col>
+          <Col>
+            <img src={}/>
+          </Col>
+        </Row> */}
       </Container>
+      
       <style jsx>{`
       .page-content {
         max-width: 100%;

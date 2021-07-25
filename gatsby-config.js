@@ -8,7 +8,7 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   pathPrefix: "/",
   siteMetadata: {
-    title: `abekek notes`,
+    title: `Alibek Kaliyev`,
     description: `My Personal Website.`,
     copyrights: '',
     author: `@abekek`,
@@ -122,8 +122,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `abekek.github.io`,
-        short_name: `abekek.github.io`,
+        name: `Alibek Kaliyev's Website`,
+        short_name: `Alibek Kaliyev's Website`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
