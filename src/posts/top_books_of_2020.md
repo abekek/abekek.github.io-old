@@ -121,4 +121,4 @@ Anyways, thanks for reading and have an enjoyable New Year!
 
 ---
 
-[About me](/about) | [Telegram blog](https://t.me/abekek_notes)
+[Telegram blog](https://t.me/abekek_notes)
