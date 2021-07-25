@@ -37,4 +37,4 @@ _The post was taken and translated from the post in my [Telegram blog](https://t
 
 ---
 
-[About me](/about) | [Telegram blog](https://t.me/abekek_notes)
+[Telegram blog](https://t.me/abekek_notes)

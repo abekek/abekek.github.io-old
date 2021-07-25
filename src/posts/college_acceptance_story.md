@@ -16,4 +16,4 @@ Feel free to watch it on YouTube! Here is the link 👇
 
 ______________
 
-[About me](/about)    |    [Telegram blog](https://t.me/abekek_notes)
+[Telegram blog](https://t.me/abekek_notes)
