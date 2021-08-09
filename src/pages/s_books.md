@@ -9,8 +9,9 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- How We Die: Reflections on Life's Final Chapter - Sherwin B. Nuland
-- Projections: A Story of Human Emotions - Karl Deisseroth
+- Surely You're Joking, Mr. Feynman! - Richard Feynman
+- Sapiens: A Brief History of Humankind - Yuval Noah Harrari
+- What It Takes: Lessons in the Pursuit of Excellence - Stephen A. Schwarzman
 
 ### Books I've read in 2021
 
@@ -22,6 +23,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 6. [How the Steel Was Tempered - Nikolai Ostrovski](https://t.me/abekek_notes/708)
 7. [A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins](https://t.me/abekek_notes/713)
 8. [The Brain: The Story of You - David Eagleman](https://t.me/abekek_notes/716)
+9. Behave: The Biology of Humans at Our Best and Worst - Robert M. Sapolsky
 
 ### Books I read in 2020
 
