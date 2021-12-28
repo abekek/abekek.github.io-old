@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2021-06-10"
+date: "2021-12-28"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -9,9 +9,11 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- Surely You're Joking, Mr. Feynman! - Richard Feynman
-- Sapiens: A Brief History of Humankind - Yuval Noah Harrari
+- Project Hail Mary - Andy Weir
 - What It Takes: Lessons in the Pursuit of Excellence - Stephen A. Schwarzman
+- Rationality - Steven Pinker
+- The Code Breaker - Walter Isaacson
+- Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
 ### Books I've read in 2021
 
@@ -24,6 +26,9 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 7. [A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins](https://t.me/abekek_notes/713)
 8. [The Brain: The Story of You - David Eagleman](https://t.me/abekek_notes/716)
 9. Behave: The Biology of Humans at Our Best and Worst - Robert M. Sapolsky
+10. Surely You're Joking, Mr. Feynman! - Richard Feynman
+11. Range - David Epstein
+12. Numbers Don't Lie - Vaclav Smil
 
 ### Books I read in 2020
 
@@ -31,7 +36,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 2. [Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker](https://t.me/abekek_notes/526)
 3. [The Metamorphosis - Franz Kafka](https://t.me/abekek_notes/528)
 4. [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](https://t.me/abekek_notes/535)
-5. [The Idiot - ‎Fyodor Dostoevsky (Russian)](https://t.me/abekek_notes/566)
+5. [The Idiot - Fyodor Dostoevsky (Russian)](https://t.me/abekek_notes/566)
 6. [Ego Is The Enemy - Ryan Holiday](https://t.me/abekek_notes/570)
 7. [How to Win at College - Cal Newport](https://t.me/abekek_notes/574)
 8. [Sleeping Beauties - Stephen King & Owen King](https://t.me/abekek_notes/583)

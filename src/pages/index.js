@@ -7,10 +7,12 @@ import '../styles/layout.css'
 import BlogLayout from '../components/blog_layout'
 import Button from "../components/button"
 import AvatarImg from '../images/avatar_website.jpg'
+import SEO from '../components/seo'
 
 const MainPage = () => {
   return (
     <BlogLayout>
+      <SEO title="abekek" />
       <Container className="page-content" fluid>
         <Row>
             <Col xs={4} className='avatar'>
@@ -21,13 +23,12 @@ const MainPage = () => {
                 />
 
                 <h2>Hi 👋 I'm Alibek!</h2>
-                <h3><a href='https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing'>RESUME</a></h3>
-                <p><i>Student @ Lehigh • Undergraduate Researcher at <a href='https://m3-learning.com/'>M3 Learning</a> • Martial Artist</i></p>
+                <p><i>👨‍🎓 Sophomore at @ <a href='https://www1.lehigh.edu/home'>Lehigh University</a> 🧪 Undergraduate Researcher at <a href='https://m3-learning.com/'>M3 Learning</a> 🥋 Martial Artist</i></p>
                 <p>Glad you visited my page! My name is Alibek Kaliyev, and I am an <b>international student from Kazakhstan</b> studying <b>Computer Science and Business at Lehigh University</b>.
                    Along with my passion in Machine/Deep Learning technologies and Software Engineering that I am trying to combine, I am deeply interested in topics of
                    Neuroscience, Cognitive Science and Philosophy. I believe that the link between the brain and AI is the thing that will shape the future of humanity.
                 </p>
-                <p>I also love martial arts, especially <b>karate</b> that I have been doing for 15 years. Martial arts plays important part in my life by
+                <p>I also love martial arts, especially <b>karate</b> that I have been doing for 15 years. Martial arts play an important part in my life by
                   teaching me discipline, courage, persistence and humility. Besides that, I love reading books, playing guitar and sharing my thoughts in my <a href='https://t.me/abekek_notes'>Russian blog</a> on Telegram.
                 </p>
 
@@ -45,19 +46,22 @@ const MainPage = () => {
             </Col>
         </Row>
 
-        {/* <h2>Projects</h2>
         <Row>
-          <Col>
-            <h4>Artistic Neural Style Transfer App</h4>
-            <p>Neural Style Transfer App built with React and PyTorch, maintained by AWS and deployed on Netlify</p>
+          <Col xs={4} className='text-center'>
+            <h3>Quick Links</h3>
+            {/* <p>• <a href='/'>Projects</a></p> */}
+            <p><a href='https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing'>Resume</a></p>
+            <p><a href='/conferences'>Conferences</a></p>
           </Col>
-          <Col>
-            <img src={}/>
-          </Col>
-        </Row> */}
+        </Row>
       </Container>
       
       <style jsx>{`
+
+      .text-center {
+        align-items: center;
+      }
+
       .page-content {
         max-width: 100%;
         margin-bottom: 40px;
