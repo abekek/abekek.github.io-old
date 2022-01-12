@@ -9,13 +9,19 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- Project Hail Mary - Andy Weir
-- What It Takes: Lessons in the Pursuit of Excellence - Stephen A. Schwarzman
 - Rationality - Steven Pinker
 - The Code Breaker - Walter Isaacson
-- Sapiens: A Brief History of Humankind - Yuval Noah Harari
+- How to Avoid a Climate Disaster - Bill Gates
+- Principles - Ray Dalio
 
-### Books I've read in 2021
+### Books I read in 2022
+
+1. Project Hail Mary - Andy Weir
+2. Models - Mark Manson
+3. Do No Harm - Henry Marsh
+4. Everything is f*cked - Mark Manson
+
+### Books I read in 2021
 
 1. [The Godfather - Mario Puzo](https://t.me/abekek_notes/690)
 2. [White Nights - Fyodor Dostoevsky](https://t.me/abekek_notes/691)
