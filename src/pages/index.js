@@ -50,7 +50,7 @@ const MainPage = () => {
           <Col xs={4} className='text-center'>
             <h3>Quick Links</h3>
             {/* <p>• <a href='/'>Projects</a></p> */}
-            <p><a href='https://drive.google.com/file/d/1wIbyfpCxhYz93oQK_xSyWY9fE6d5mVPw/view?usp=sharing'>Resume</a></p>
+            <p><a href='https://drive.google.com/file/d/12dpHkkM_cqoECSB9xwAjOJb-cyCc-nqu/view?usp=sharing'>Resume</a></p>
             <p><a href='/conferences'>Conferences</a></p>
           </Col>
         </Row>

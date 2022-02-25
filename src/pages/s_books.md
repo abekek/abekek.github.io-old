@@ -9,10 +9,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- Rationality - Steven Pinker
-- The Code Breaker - Walter Isaacson
-- How to Avoid a Climate Disaster - Bill Gates
-- Principles - Ray Dalio
+- A Thousand Splendid Suns - Khaled Hosseini
 
 ### Books I read in 2022
 
@@ -20,6 +17,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 2. Models - Mark Manson
 3. Do No Harm - Henry Marsh
 4. Everything is f*cked - Mark Manson
+5. How to Not Die Alone - Logan Ury
 
 ### Books I read in 2021
 
