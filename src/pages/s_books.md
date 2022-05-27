@@ -9,9 +9,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- A Thousand Splendid Suns - Khaled Hosseini
-- How We Die - Sherwin Nuland
-- Algorithms to Live By - Brian Christian, Tom Griffiths
+- Searching for a good book ...
 
 ### Books I read in 2022
 
@@ -22,6 +20,8 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 5. How to Not Die Alone - Logan Ury
 6. The Dream of a Ridiculous Man - Fyodor Dostoyevsky
 7. 101 Crucial Lessons They Don't Teach You in Business School - Chris Haroun
+8. How We Die - Sherwin Nuland
+9. Algorithms to Live By - Brian Christian, Tom Griffiths
 
 ### Books I read in 2021
 
