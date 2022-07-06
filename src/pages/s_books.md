@@ -9,9 +9,7 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- Build: An Unorthodox Guide to Making Things Worth Making - Tony Fadell
 - Projections - Karl Deisseroth
-- Courage is Calling - Ryan Holiday
 
 ### Books I read in 2022
 
@@ -25,6 +23,8 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 8. How We Die - Sherwin Nuland
 9. Algorithms to Live By - Brian Christian, Tom Griffiths
 10. Atlas of the Heart - Brene Brown
+11. Build: An Unorthodox Guide to Making Things Worth Making - Tony Fadell
+12. Livewired: The Inside Story of the Ever-Changing Brain - David Eagleman
 
 ### Books I read in 2021
 
