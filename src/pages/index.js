@@ -23,7 +23,7 @@ const MainPage = () => {
                 />
 
                 <h2>Hi 👋 I'm Alibek!</h2>
-                <p><i>👨‍🎓 Rising Junior at @ <a href='https://www1.lehigh.edu/home'>Lehigh University</a> 🧪 Undergraduate Researcher at <a href='https://m3-learning.com/'>M3 Learning</a> 👨‍💻 ML Technical Associate at GrainBound, LLC 🥋 Martial Artist</i></p>
+                <p><i>👨‍🎓 Junior at @ <a href='https://www1.lehigh.edu/home'>Lehigh University</a> 🧪 Undergraduate Researcher at <a href='https://m3-learning.com/'>M3 Learning</a> ⌨️ Incoming SDE Intern at Amazon 👨‍💻 ML Technical Associate at GrainBound, LLC 🥋 Martial Artist</i></p>
                 <p>Glad you visited my page! My name is Alibek Kaliyev, and I am an <b>international student from Kazakhstan</b> studying <b>Computer Science and Business at Lehigh University</b>.
                    Along with my passion in Machine/Deep Learning technologies and Software Engineering that I am trying to combine, I am deeply interested in topics of
                    Neuroscience, Cognitive Science and Philosophy. I believe that the link between the brain and AI is the thing that will shape the future of humanity.

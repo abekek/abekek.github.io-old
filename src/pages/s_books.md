@@ -1,6 +1,6 @@
 ---
 title: "Books"
-date: "2021-12-28"
+date: "2022-07-10"
 author: "Alibek Kaliyev"
 path: "/s_books"
 ---
@@ -9,7 +9,10 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 
 ### The book(-s) I'm currently reading
 
-- Projections - Karl Deisseroth
+- Klara and the Sun - Kazuo Ishiguro
+- Thinking Fast and Slow - Daniel Kahneman
+- Principles - Ray Dalio
+- Designing Machine Learning Systems - Chip Huyen
 
 ### Books I read in 2022
 
@@ -25,6 +28,8 @@ Hey! Here you can see the list of the books I've read so far and going to read i
 10. Atlas of the Heart - Brene Brown
 11. Build: An Unorthodox Guide to Making Things Worth Making - Tony Fadell
 12. Livewired: The Inside Story of the Ever-Changing Brain - David Eagleman
+13. Projections - Karl Deisseroth
+14. Flow - Mihaly Csikszentmihalyi
 
 ### Books I read in 2021
 
