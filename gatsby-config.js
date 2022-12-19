@@ -22,10 +22,10 @@ module.exports = {
     showMenuItems: 2,
     menuMoreText: 'Show more',
     mainMenu: [
-      {
-        title: 'Books',
-        path: '/s_books',
-      },
+      // {
+      //   title: 'Books',
+      //   path: '/s_books',
+      // },
       {
         title: 'Blog',
         path: '/blog',

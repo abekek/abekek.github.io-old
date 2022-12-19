@@ -7,6 +7,22 @@ path: "/conferences"
 
 This is a list of conferences where I participated. Each of these includes a link to the conference website, and a link to the materials.
 
+## 2022
+
+### Gulf Coast Undergraduate Research Symposium 2022
+**Title:** Rapid Fitting of Band-Excitation Piezoresponse Force Microscopy and Piezoelectric Hysteresis Loops Using Physics Constrained Unsupervised Neural Networks
+
+**Location**: Rice University, Houston, TX, USA
+
+**Date**: October 7-9
+
+### Fast Machine Learning for Science Workshop 2022
+**Title:** Rapid Fitting of Band-Excitation Piezoresponse Force Microscopy and Piezoelectric Hysteresis Loops Using Physics Constrained Unsupervised Neural Networks
+
+**Location**: Southern Methodist University, Dallas, TX, USA
+
+**Date**: October 3-6
+
 ## 2021
 
 ### Materials Science and Engineering: Undergraduate Research Symposium
