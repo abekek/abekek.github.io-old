@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://abekek.github.io/sitemap.xml

@@ -1,0 +1,12 @@
+{
+    "name": "Alibek Kaliyev",
+    "short_name": "abekek.github.io",
+    "description": "Alibek's personal website",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "start_url": "../../index.html"
+}
